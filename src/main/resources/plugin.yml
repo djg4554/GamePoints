@@ -1,0 +1,11 @@
+name: GamePoints
+version: ${project.version}
+main: org.spigotparty.dev.free.gamepoints.GamePoints
+api-version: 1.16
+authors: [ SpigotPartyDev ]
+softdepend: [PlaceholderAPI]
+description: Plugin for DarkLordx
+commands:
+  gp:
+    description: fjfjf
+    permission:

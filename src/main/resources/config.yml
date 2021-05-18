@@ -1,0 +1,12 @@
+economy:
+  base-funds: 0
+messages:
+  setted-amount-to-player: " %name% %amount%"
+  setted-amount-reciever: "&c%amount% has been setted to your acc"
+  added-amount-to-player: "Added &2%amount% &ato &2%name% &a's account"
+  added-amount-reciever: "&c%amount% has been setted to your acc"
+  taken-amount-from-player: "taken &2%amount% &afrom &2%name% &a's account"
+  taken-amount-reciever: "from reciever (only "
+  personal-balance: "%amount%"
+  player-balance: "%amount% %name%"
+  not-enough-permission: " Error: not enough permission"
